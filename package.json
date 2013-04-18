@@ -1,0 +1,30 @@
+{
+  "name": "easymt",
+  "version": "0.0.1",
+  "description": "Simple email templates.",
+  "keywords": [
+    "templates",
+    "template",
+    "mail",
+    "email"
+  ],
+  "main": "lib/mail-templates.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified...yet.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onmodulus/node-easymt.git"
+  },
+  "author": "Modulus <feedback@modulus.io>",
+  "maintainers": [
+    "zwigby <ckey@paranoidferret.com>",
+    "busyrich <richard@modulus.com>",
+    "inconceivableduck <brandon@modulus.io>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "~0.8.3",
+    "async": "~0.2.7"
+  }
+}
